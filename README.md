@@ -13,4 +13,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Harshitha-Singari/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0904-fruit-into-baskets](https://github.com/Harshitha-Singari/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
