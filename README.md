@@ -4,11 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
-| [0904-fruit-into-baskets](https://github.com/Harshitha-Singari/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
-## Hash Table
-|  |
-| ------- |
-| [0904-fruit-into-baskets](https://github.com/Harshitha-Singari/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
